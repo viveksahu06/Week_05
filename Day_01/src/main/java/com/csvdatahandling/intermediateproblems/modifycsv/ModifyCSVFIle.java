@@ -1,7 +1,7 @@
 ///*Read a CSV file and increase the salary of employees from the "IT" department by 10%.
 //Save the updated records back to a new CSV file.
 //*/
-package com.csvdatahandling.indermediateproblems.modifycsv;
+package com.csvdatahandling.intermediateproblems.modifycsv;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
@@ -11,7 +11,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 public class ModifyCSVFIle {
