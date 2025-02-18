@@ -1,4 +1,4 @@
-package com.csvdatahandling.indermediateproblems.sortcsvrecord;
+package com.csvdatahandling.intermediateproblems.sortcsvrecord;
 
 import java.util.Comparator;
 
