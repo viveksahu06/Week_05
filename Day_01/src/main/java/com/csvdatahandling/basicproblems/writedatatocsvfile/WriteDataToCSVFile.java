@@ -8,7 +8,7 @@ public class WriteDataToCSVFile {
         //file path
         String filePath = "src/main/java/com/csvdatahandling/basicproblems/writedatatocsvfile/Write.csv";
         //calling method to writing the csv file using bufferReader
-          WriteCsvFileUsingBufferWriter.writingUsingBufferWriter(filePath);
+        WriteCsvFileUsingBufferWriter.writingUsingBufferWriter(filePath);
         System.out.println("+++++++++++++++++++++++++++++++++++++++");
         //calling method to writing the csv file using OpenCsv
         WriteCSVFileUsingOpenCSV.writingUsingOpenCsv(filePath);
