@@ -1,4 +1,4 @@
-package com.csvdatahandling.indermediateproblems.filterrecordsfromcsv;
+package com.csvdatahandling.intermediateproblems.filterrecordsfromcsv;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
