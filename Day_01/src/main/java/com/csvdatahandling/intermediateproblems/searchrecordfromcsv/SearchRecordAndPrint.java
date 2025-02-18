@@ -1,4 +1,4 @@
-package com.csvdatahandling.indermediateproblems.searchrecordfromcsv;
+package com.csvdatahandling.intermediateproblems.searchrecordfromcsv;
 
 import com.opencsv.CSVReader;
 
