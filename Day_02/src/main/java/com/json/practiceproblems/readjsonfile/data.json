@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Saurabh Pathak",
+    "age": 22,
+    "email": "saurabh.pathak@gmail.com"
+  },
+  {
+    "name": "Vivek Kumar Sahu",
+    "age": 23,
+    "email": "vivek.sahu@gmail.com"
+  },
+  {
+    "name": "Amit Sharma",
+    "age": 21,
+    "email": "amit.sharma@gmail.com"
+  },
+  {
+    "name": "Priya Verma",
+    "age": 24,
+    "email": "priya.verma@gmail.com"
+  },
+  {
+    "name": "Rahul Gupta",
+    "age": 22,
+    "email": "rahul.gupta@gmail.com"
+  }
+]
